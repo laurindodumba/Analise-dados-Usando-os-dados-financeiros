@@ -17,3 +17,5 @@ import pandas as pd
 import numpy as np
 
 import matplotlib.pyplot as plt
+![image](https://user-images.githubusercontent.com/38964642/162630193-2169d5ba-273e-4b49-befa-336c0f2a5547.png)
+
